@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:paralax/images.dart';
 import 'package:paralax/paralax_page.dart';
 
 void main() {
